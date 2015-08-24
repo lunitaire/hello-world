@@ -1,2 +1,3 @@
 # hello-world
-inspiration and about me
+
+My alias is lunitaire. Some of you may know me IRL as Atrian. At cons these combine into the badge name of Atrian Lunitaire. I am an individual of many talents and interests. I blame this on my love of learning and my natural sense of curiosity. I have worked as a Graphic Designer, 3D modeler, Helpdesk Technician, NetAdmin, Project and Technical Manager, and currently as a SysAdmin + UI Designer. I am most excited about my current and newest role. Over the years I have played with many forms of code including html, xhtml, CSS, Javascript, jQuery, PHP, MooTools, SQL, Java, and many, many, many CMSs. I enjoy making and editing themes and figuring out how everything works. Github is an interesting place, and I have spent much time lurking. I look forward to contributing and playing with code.
