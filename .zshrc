@@ -5,7 +5,7 @@ export ZSH=/home/awagner/.oh-my-zsh
 # Look in ~/.oh-my-zsh/themes/
 # Optionally, if you set this to "random", it'll load a random theme each
 # time that oh-my-zsh is loaded.
-ZSH_THEME="robbyrussell"
+ZSH_THEME="sunrise"
 
 # Uncomment the following line to use case-sensitive completion.
 # CASE_SENSITIVE="true"
@@ -51,16 +51,19 @@ ZSH_THEME="robbyrussell"
 # Add wisely, as too many plugins slow down shell startup.
 plugins=(git)
 
-autoload -U promptinit
-promptinit
-prompt adam2 8bit
-alias adam2='prompt adam2 8bit'
-alias adam2-light='prompt adam2 8bit cyan black black black magenta'
+#autoload -U promptinit
+#promptinit
+#prompt adam2 8bit
+#alias adam2='prompt adam2 8bit'
+#alias adam2-light='prompt adam2 8bit cyan black black black magenta'
 
 # User configuration
 
 export PATH="/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin"
 # export MANPATH="/usr/local/man:$MANPATH"
+export PATH="$HOME/.linuxbrew/bin:$PATH"
+export MANPATH="$HOME/.linuxbrew/share/man:$MANPATH"
+export INFOPATH="$HOME/.linuxbrew/share/info:$INFOPATH"
 
 source $ZSH/oh-my-zsh.sh
 
