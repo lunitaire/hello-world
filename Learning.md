@@ -3,7 +3,7 @@ Currently trying to compile a list of all the learning resources that I've found
 
 #### Book Queue: Profession related books that are currently in my reading queue
 * *The Phoenix Project*, written by Gene Kim, Kevin Behr, George Spafford  
-   Currently at 78%. I am really enjoying it so far.
+   Finished. Currently reading through the Resource Guide at the end.
 * *The Effective Enginner*, written by Edmond Lau  
    Recently started. This had great reviews on Amazon.
 * *Site Reliabiliity Engineering*, edited by Beyer, Jones, Petoff, and Murphy  
