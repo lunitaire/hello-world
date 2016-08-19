@@ -26,3 +26,7 @@ Currently trying to compile a list of all the learning resources that I've found
 * [Lynda](https://www.lynda.com)  
    * So many topics, not enough time!
    * I wish there was a way to link all my certificates from one page. Right now the easiest way to see them all are on [my LinkedIn](https://www.linkedin.com/in/atrianwagner). 
+* [Exercism](http://exercism.io/lunitiaire)  
+   Recently joined this learning community after it was recommended by some friends in WeAllJS.
+* [CheckiO](https://checkio.org/user/lunitaire)  
+   This is a Python specific coding game, which is a lot of fun.
