@@ -5,7 +5,7 @@ This is a list of tools and programs I enjoy using when building software, websi
 - Oh My Zsh with Adam2 prompt and Solarized colour scheme 
 - nano
 - git
-- Sublime Text 3 and Brackets
+- Atom
 - Bitvise for Windows and HyperTerm for Mac
 - CyberDuck
 - VirtualBox (usually with a CentOS 6 or 7 LAMP, previously with Ubuntu 14 and up)
