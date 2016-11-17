@@ -4,6 +4,8 @@ Currently trying to compile a list of all the learning resources that I've found
 #### Book Queue: Profession related books that are currently in my reading queue
 * *The Phoenix Project*, written by Gene Kim, Kevin Behr, George Spafford  
    Finished. Currently reading through the Resource Guide at the end.
+* *The Imposter's Handbook*, by Rob Conery 
+   The title is a cute reference to the imposter's syndrome, which is an issue rampant among many in the tech field. I saw a recommendation for this on WeAllJS, and it is definitely an informative read.
 * *The Effective Enginner*, written by Edmond Lau  
    Recently started. This had great reviews on Amazon.
 * *Site Reliabiliity Engineering*, edited by Beyer, Jones, Petoff, and Murphy  
