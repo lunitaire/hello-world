@@ -3,7 +3,7 @@
 This is a list of tools and programs I enjoy using in my workflow.
 
 - Mac Book Pro
-- Atom editor
+- VScode or Atom editor
 - Hyper.is for terminal (monokai theme) paired with oh-my-zsh (spaceship theme) + fira code font (w/ ligatures)
 - Postman for testing APIs
 - Quiver for note taking
